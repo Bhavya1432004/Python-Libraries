@@ -1,0 +1,107 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "baa775ad-db0a-4c54-9b04-cfdfa17fee01",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2611512754.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;36m  Cell \u001b[1;32mIn[6], line 1\u001b[1;36m\u001b[0m\n\u001b[1;33m    <college>\u001b[0m\n\u001b[1;37m    ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "<college>\n",
+    "    <student>\n",
+    "        <id> 1 </id>\n",
+    "        <name> bhavya </name>\n",
+    "        <per> 90 </per>\n",
+    "    </student>\n",
+    "    <student>\n",
+    "        <id> 2 </id>\n",
+    "        <name> Maitri </name>\n",
+    "        <per> 100 </per>\n",
+    "    </student>\n",
+    "    <student>\n",
+    "        <id> 3 </id>\n",
+    "        <name> Dhvani </name>\n",
+    "        <per> 80 </per>\n",
+    "    </student>\n",
+    "    <student>\n",
+    "        <id> 4 </id>\n",
+    "        <name> Diya </name>\n",
+    "        <per> 85 </per>\n",
+    "    </student>\n",
+    "    <student>\n",
+    "        <id> 5 </id>\n",
+    "        <name> Janvi </name>\n",
+    "        <per> 75 </per>\n",
+    "    </student>\n",
+    "    <student>\n",
+    "        <id> 2 </id>\n",
+    "        <name> Maitri </name>\n",
+    "        <per> 80 </per>\n",
+    "    </student>\n",
+    "</college>"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "985e1ba5-2c90-4136-be25-c1b698120992",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "df6f6820-0106-4d45-96bf-a9d3416fb2b1",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "610931f3-d49c-4045-9d59-c4810f5e4cb9",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d135ef16-4d93-4faa-b086-bf1ad4967d8c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
